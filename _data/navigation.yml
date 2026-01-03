@@ -14,11 +14,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-   - title: "Lecture notes"
-     url: /teaching/    
+  - title: "Lecture notes"
+    url: /teaching/    
     
-   - title: "Expository talks"
-    # url: /portfolio/
+  - title: "Expository talks"
+    url: /portfolio/
         
   # - title: "Blog Posts"
     # url: /year-archive/
